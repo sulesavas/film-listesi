@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SearchBar({ sorgu, setSorgu, AramaYap }) {
+export default function SearchBar({ query, setQuery, Search }) {
     return (
         <div className="input-group">
 
