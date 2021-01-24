@@ -1,4 +1,9 @@
-# movie-list - Film Arama Motoru Uygulaması
+# movie-list
+
+Film Arama Motoru Uygulaması
+
+### Demo Sitesi
+ Adres: https://sulesavas-movielist.netlify.app
 
 ### Kullanılan Teknolojiler
 
